@@ -1,8 +1,8 @@
 body {
   text-align: center;
-  font-family: 'Radley', serif; /*Radley prima, se non c'è fallback a serif*/
-  background-color: #6a0dad;/*viola intenso*/
-  color: white; /*testo bianco*/
+  font-family: 'Radley', serif; /* Radley prima, se non c'è fallback a serif */
+  background-color: #6a0dad;/* viola intenso */
+  color: white; /* testo bianco */
 }
 
 h1 {
